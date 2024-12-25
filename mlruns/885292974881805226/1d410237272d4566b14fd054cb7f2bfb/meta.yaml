@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Github%20Files/NLP_projects/NLP_projects/flipkart%20sentiment/mlruns/885292974881805226/1d410237272d4566b14fd054cb7f2bfb/artifacts
+end_time: 1716027802006
+entry_point_name: ''
+experiment_id: '885292974881805226'
+lifecycle_stage: active
+run_id: 1d410237272d4566b14fd054cb7f2bfb
+run_name: unique-cow-52
+run_uuid: 1d410237272d4566b14fd054cb7f2bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716027780005
+status: 3
+tags: []
+user_id: HP

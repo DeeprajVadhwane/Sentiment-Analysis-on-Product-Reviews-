@@ -1,0 +1,1 @@
+[{'vectorization__max_features': [1000, 2000], 'classifier__n_estimators': [50, 120], 'classifier__max_depth': [None, 10, 50]}]

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Github%20Files/NLP_projects/NLP_projects/flipkart%20sentiment/mlruns/885292974881805226/c6940ae57ec84030955268dc3579ef1b/artifacts
+end_time: 1716020824848
+entry_point_name: ''
+experiment_id: '885292974881805226'
+lifecycle_stage: active
+run_id: c6940ae57ec84030955268dc3579ef1b
+run_name: brawny-mink-142
+run_uuid: c6940ae57ec84030955268dc3579ef1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716020448726
+status: 3
+tags: []
+user_id: HP

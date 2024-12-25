@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Github%20Files/NLP_projects/NLP_projects/flipkart%20sentiment/mlruns/885292974881805226/ab3c69bda75e4025b43f4730b795d448/artifacts
+end_time: 1716029173208
+entry_point_name: ''
+experiment_id: '885292974881805226'
+lifecycle_stage: active
+run_id: ab3c69bda75e4025b43f4730b795d448
+run_name: crawling-shad-897
+run_uuid: ab3c69bda75e4025b43f4730b795d448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716029146309
+status: 3
+tags: []
+user_id: HP

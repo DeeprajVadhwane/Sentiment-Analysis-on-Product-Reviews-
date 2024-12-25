@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Github%20Files/NLP_projects/NLP_projects/flipkart%20sentiment/mlruns/885292974881805226/eed26040364d44c3bd82c45a43e37ffe/artifacts
+end_time: 1716023572672
+entry_point_name: ''
+experiment_id: '885292974881805226'
+lifecycle_stage: active
+run_id: eed26040364d44c3bd82c45a43e37ffe
+run_name: trusting-ray-120
+run_uuid: eed26040364d44c3bd82c45a43e37ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716022087396
+status: 4
+tags: []
+user_id: HP

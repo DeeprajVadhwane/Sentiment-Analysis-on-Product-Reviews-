@@ -1,0 +1,1 @@
+{'classifier__max_depth': None, 'classifier__n_estimators': 50, 'vectorization__max_features': 2000}

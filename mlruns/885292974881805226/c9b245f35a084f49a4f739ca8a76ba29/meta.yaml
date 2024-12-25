@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Github%20Files/NLP_projects/NLP_projects/flipkart%20sentiment/mlruns/885292974881805226/c9b245f35a084f49a4f739ca8a76ba29/artifacts
+end_time: 1716029350537
+entry_point_name: ''
+experiment_id: '885292974881805226'
+lifecycle_stage: active
+run_id: c9b245f35a084f49a4f739ca8a76ba29
+run_name: stylish-lark-15
+run_uuid: c9b245f35a084f49a4f739ca8a76ba29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716029324260
+status: 3
+tags: []
+user_id: HP
